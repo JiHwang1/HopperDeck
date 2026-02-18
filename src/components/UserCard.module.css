@@ -1,0 +1,106 @@
+.card {
+	background: var(--background);
+	border: 1px solid var(--border);
+	border-radius: 12px;
+	padding: 20px;
+	transition: all 0.2s ease-in-out;
+	cursor: pointer;
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	position: relative;
+	overflow: hidden;
+}
+
+.card:hover {
+	border-color: var(--primary);
+	box-shadow: 0 8px 30px rgba(0, 208, 132, 0.08);
+	transform: translateY(-2px);
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+}
+
+.iconPlaceholder {
+	width: 48px;
+	height: 48px;
+	background: var(--muted);
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: 700;
+	color: var(--primary);
+	font-size: 1.2rem;
+}
+
+.titleInfo {
+	flex: 1;
+}
+
+.name {
+	font-size: 1.1rem;
+	font-weight: 600;
+	margin: 0;
+	color: var(--foreground);
+}
+
+.author {
+	font-size: 0.85rem;
+	color: var(--muted-foreground);
+	margin: 0;
+}
+
+.badge {
+	font-size: 0.75rem;
+	padding: 4px 8px;
+	background: var(--muted);
+	border-radius: 6px;
+	color: var(--muted-foreground);
+	font-weight: 500;
+}
+
+.description {
+	font-size: 0.95rem;
+	color: var(--muted-foreground);
+	line-height: 1.5;
+	margin: 0;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+.footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 8px;
+}
+
+.downloads {
+	display: flex;
+	align-items: center;
+	gap: 4px;
+	font-size: 0.85rem;
+	color: var(--muted-foreground);
+}
+
+.installBtn {
+	background: var(--primary);
+	color: var(--primary-foreground);
+	border: none;
+	padding: 8px 16px;
+	border-radius: 8px;
+	font-size: 0.85rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: opacity 0.2s;
+}
+
+.installBtn:hover {
+	opacity: 0.9;
+}

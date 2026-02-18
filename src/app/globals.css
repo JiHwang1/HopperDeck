@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@source "../**/*.{js,ts,jsx,tsx,mdx}";
+
+/* CSS 변수 정의 - UserCard.module.css에서 사용 */
+:root {
+	--background: #ffffff;
+	--foreground: #0f172a;
+	--primary: #10b981;
+	--primary-foreground: #ffffff;
+	--border: #e2e8f0;
+	--muted: #f1f5f9;
+	--muted-foreground: #64748b;
+}
+
+@font-face {
+	font-family: "Paperlogy";
+	src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2403-2@1.0/Paperlogy-8ExtraBold.woff2") format("woff2");
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	min-height: 100vh;
+	font-family: var(--font-jakarta), "Paperlogy", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	background-color: #f8fafc;
+	color: #0f172a;
+	-webkit-font-smoothing: antialiased;
+}
+
+.font-paperlogy {
+	font-family: "Paperlogy", "Plus Jakarta Sans", sans-serif;
+}
+
+.line-clamp-4 {
+	display: -webkit-box;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+@keyframes hopper-jump-once {
+	0% {
+		transform: translateY(0) scale(1);
+	}
+
+	35% {
+		transform: translateY(-26px) scale(1.08);
+	}
+
+	100% {
+		transform: translateY(0) scale(1);
+	}
+}
+
+@keyframes hero-float {
+
+	0%,
+	100% {
+		transform: translate(-50%, -50%) scale(1);
+		opacity: 0.35;
+	}
+
+	50% {
+		transform: translate(-50%, -50%) scale(1.08);
+		opacity: 0.55;
+	}
+}
+
+@keyframes scroll-bounce {
+
+	0%,
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+
+	50% {
+		transform: translateY(8px);
+		opacity: 0.7;
+	}
+}
+
+.animate-hopper-jump-once {
+	animation: hopper-jump-once 760ms cubic-bezier(0.22, 1, 0.36, 1) 1 both;
+}
+
+.animate-float-soft {
+	animation: hero-float 9s ease-in-out infinite;
+}
+
+.animate-scroll-bounce {
+	animation: scroll-bounce 1.8s ease-in-out infinite;
+}
