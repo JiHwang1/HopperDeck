@@ -1,0 +1,671 @@
+[
+  {
+    "id": "3dvoronoi",
+    "name": "3DVoronoi",
+    "authors": "Nikolay Anisimov",
+    "description": "",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/3dvoronoi.html",
+    "downloadUrl": "http://www.grasshopper3d.com/forum/topics/3d-voronoi-4",
+    "tags": [
+      "geometry",
+      "meshes"
+    ]
+  },
+  {
+    "id": "alba",
+    "name": "Alba",
+    "authors": "Ryan Hoover",
+    "description": "Alba is a suite of tools in Rhino/Grasshopper that allows a user to visualize molecular biology and to perform genetic engineering in silico.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/alba.html",
+    "downloadUrl": "http://www.ryanhoover.org/rd/alba.php",
+    "tags": [
+      "electronic",
+      "biology",
+      "dna"
+    ]
+  },
+  {
+    "id": "alpaca4d",
+    "name": "Alpaca4d",
+    "authors": "Marco Pellegrino",
+    "description": "Alpaca4d is a Grasshopper plugin which has been developed on top of OpenSees.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/alpaca4d.html",
+    "downloadUrl": "https://alpaca4d.github.io/download.html",
+    "tags": [
+      "integration",
+      "opensees"
+    ]
+  },
+  {
+    "id": "anemone",
+    "name": "Anemone",
+    "authors": "Mateusz Zwierzycki",
+    "description": "",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/anemone.html",
+    "downloadUrl": "https://www.food4rhino.com/app/anemone",
+    "tags": [
+      "logic",
+      "code",
+      "flow"
+    ]
+  },
+  {
+    "id": "angora",
+    "name": "Angora",
+    "authors": "Frédéric Becquelin",
+    "description": "Fuzzy logic components for Grasshopper",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/angora.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/angora2",
+    "tags": [
+      "logic",
+      "fuzzy"
+    ]
+  },
+  {
+    "id": "animation",
+    "name": "Animation",
+    "authors": "Yue Zongzi",
+    "description": "",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/animation.html",
+    "downloadUrl": "https://www.food4rhino.com/app/animation",
+    "tags": [
+      "animation"
+    ]
+  },
+  {
+    "id": "assembler",
+    "name": "Assembler",
+    "authors": "Co-de-iT (Computational Design Italy)",
+    "description": "Assembler is a Grasshopper plugin that helps you create and manage assemblages of parts, conceived with (but not limited to) the architectural scale in mind.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/assembler.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/assembler",
+    "tags": [
+      "rhino"
+    ]
+  },
+  {
+    "id": "axolotl",
+    "name": "Axolotl",
+    "authors": "Mathias Bernhard",
+    "description": "AXOLOTL provides a set of components for volumetric modeling in Rhino Grasshopper.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/axolotl.html",
+    "downloadUrl": "https://www.food4rhino.com/app/axolotl",
+    "tags": [
+      "geometry",
+      "volumetric"
+    ]
+  },
+  {
+    "id": "beaver",
+    "name": "Beaver",
+    "authors": "João Pini, Márcio Sartorelli, Renan Prandini",
+    "description": "Beaver is a tool that allows timber engineering procedures to be executed in computational design workflows.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/beaver.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/beaver",
+    "tags": [
+      "architecture",
+      "wood"
+    ]
+  },
+  {
+    "id": "bengesht",
+    "name": "Bengesht",
+    "authors": "Behrooz Tahanzadeh",
+    "description": "These components of Bengesht can handle (send/receive) communication with a server over WebSocket protocol.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/bengesht.html",
+    "downloadUrl": "https://www.food4rhino.com/app/bengesht",
+    "tags": [
+      "electronic",
+      "robotics",
+      "computer",
+      "vision"
+    ]
+  },
+  {
+    "id": "biomorpher",
+    "name": "Biomorpher",
+    "authors": "John Harding & Cecilie Brandt-Olsen",
+    "description": "Interactive Evolutionary Algorithms for Grasshopper",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/biomorpher.html",
+    "downloadUrl": "https://github.com/johnharding/Biomorpher/releases",
+    "tags": [
+      "geometry",
+      "meshes"
+    ]
+  },
+  {
+    "id": "bison",
+    "name": "Bison",
+    "authors": "bison.la",
+    "description": "Bison is a landscape architecture plugin for Grasshopper + Rhino 6.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/bison.html",
+    "downloadUrl": "https://www.food4rhino.com/app/bison",
+    "tags": [
+      "generation",
+      "landscape",
+      "trees"
+    ]
+  },
+  {
+    "id": "bitmapplus",
+    "name": "BitmapPlus",
+    "authors": "David Mans",
+    "description": "Bitmaps can be created pixel by pixel, imported, or generated and previewed live in the canvas.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/bitmapplus.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/bitmap",
+    "tags": [
+      "image",
+      "processing"
+    ]
+  },
+  {
+    "id": "blindfold",
+    "name": "Blindfold",
+    "authors": "Ekim Royrp",
+    "description": "Blindfold is a single component which can hide or show geometry in Rhino that is referenced into the Grasshopper document.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/blindfold.html",
+    "downloadUrl": "https://www.food4rhino.com/app/blindfold",
+    "tags": [
+      "rhino"
+    ]
+  },
+  {
+    "id": "blueorange",
+    "name": "BlueOrange",
+    "authors": "wucl12",
+    "description": "BlueOrange is a collection of useful utilities for Grasshopper.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/blueorange.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/blueorange",
+    "tags": [
+      "core",
+      "collections"
+    ]
+  },
+  {
+    "id": "bowerbird",
+    "name": "Bowerbird",
+    "authors": "Unknown",
+    "description": "",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/bowerbird.html",
+    "downloadUrl": "http://www.grasshopper3d.com/group/bowerbird",
+    "tags": [
+      "geometry",
+      "meshes"
+    ]
+  },
+  {
+    "id": "box2d",
+    "name": "Box2D",
+    "authors": "Mahdiyar Esmail Beigi",
+    "description": "",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/box2d.html",
+    "downloadUrl": "https://www.food4rhino.com/app/box2d",
+    "tags": [
+      "animation"
+    ]
+  },
+  {
+    "id": "bubalus",
+    "name": "Bubalus",
+    "authors": "NARUTO",
+    "description": "Use Bubalus to achieve:",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/bubalus.html",
+    "downloadUrl": "https://www.food4rhino.com/app/bubalusgh",
+    "tags": [
+      "rhino"
+    ]
+  },
+  {
+    "id": "bullant",
+    "name": "BullAnt",
+    "authors": "Jon Mirtschin",
+    "description": "BullAnt is a Rhino3d/Grasshopper plug-in primarily for Architects and Engineers (but also other Rhino/Grasshopper users) featuring computational design tools to enhance and extend the parent program and other 3rd party plug-ins.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/bullant.html",
+    "downloadUrl": "https://www.food4rhino.com/app/bullant",
+    "tags": [
+      "architecture",
+      "architectural",
+      "bim"
+    ]
+  },
+  {
+    "id": "butterfly",
+    "name": "Butterfly",
+    "authors": "Mostapha Sadeghipour Roudsari",
+    "description": "A light python API for creating and running OpenFoam cases for CFD simulation.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/butterfly.html",
+    "downloadUrl": "https://www.food4rhino.com/app/ladybug-tools",
+    "tags": [
+      "architecture",
+      "climate",
+      "simulation"
+    ]
+  },
+  {
+    "id": "caribou",
+    "name": "Caribou",
+    "authors": "Philip Belesky",
+    "description": "Parses downloaded Open Street Map data into Grasshopper geometry.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/caribou.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/caribou",
+    "tags": [
+      "integration",
+      "maps",
+      "gis"
+    ]
+  },
+  {
+    "id": "carverhino",
+    "name": "CarveRhino",
+    "authors": "Tom Svilans",
+    "description": "",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/carverhino.html",
+    "downloadUrl": "http://www.grasshopper3d.com/forum/topics/carverhino-carvegh-a-wrapper-for-the-carve-mesh-boolean-library",
+    "tags": [
+      "geometry",
+      "meshes"
+    ]
+  },
+  {
+    "id": "caterpillar",
+    "name": "Caterpillar",
+    "authors": "David Mans",
+    "description": "Caterpillar GH is the Grasshopper 3D implementation of the Caterpillar Library which allows for the conversion between different systems of measurement.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/caterpillar.html",
+    "downloadUrl": "https://www.food4rhino.com/app/caterpillar",
+    "tags": [
+      "math",
+      "unit",
+      "conversion"
+    ]
+  },
+  {
+    "id": "centipede",
+    "name": "Centipede",
+    "authors": "Carson Smuts",
+    "description": "Allows the user to keyframe the animation of multiple objects in Grasshopper along a single slider.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/centipede.html",
+    "downloadUrl": "https://www.grasshopper3d.com/group/centipede",
+    "tags": [
+      "animation"
+    ]
+  },
+  {
+    "id": "chimpanzee",
+    "name": "Chimpanzee",
+    "authors": "Matous Stieber",
+    "description": "Chimpanzee is suitable for fractal enthusiasts.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/chimpanzee.html",
+    "downloadUrl": "https://www.food4rhino.com/app/chimpanzee",
+    "tags": [
+      "geometry",
+      "fractals",
+      "hyperchaotics"
+    ]
+  },
+  {
+    "id": "cocoon",
+    "name": "Cocoon",
+    "authors": "David Stasiuk",
+    "description": "Cocoon is a fairly straightforward implementation of the Marching Cubes algorithm for turning iso-surfaces into polygonal meshes.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/cocoon.html",
+    "downloadUrl": "http://www.bespokegeometry.com/2015/07/22/cocoon/",
+    "tags": [
+      "geometry",
+      "meshes"
+    ]
+  },
+  {
+    "id": "color-plus",
+    "name": "Color Plus",
+    "authors": "David Mans",
+    "description": "Color Plus is a simple plugin that adds a small set of components that make the creation and previewing of color palettes and conversion to Hex and web-friendly color formats easy.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/color-plus.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/color",
+    "tags": [
+      "core",
+      "collections"
+    ]
+  },
+  {
+    "id": "colibri",
+    "name": "Colibri",
+    "authors": "Thornton Tomasetti (CORE studio)",
+    "description": "Colibri 2 helps iterate through all possible combinations of a series of inputs and compiles the resulting data into a CSV of input and output values per iteration.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/colibri.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/colibri",
+    "tags": [
+      "math",
+      "combinatorics"
+    ]
+  },
+  {
+    "id": "conduit",
+    "name": "Conduit",
+    "authors": "Nathan Miller",
+    "description": "Conduit is an open source plug-in authored by Proving Ground.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/conduit.html",
+    "downloadUrl": "https://provingground.io/tools/conduit-for-grasshopper/",
+    "tags": [
+      "user",
+      "interface",
+      "design"
+    ]
+  },
+  {
+    "id": "crane",
+    "name": "Crane",
+    "authors": "Suto Kai",
+    "description": "Crane is a Grasshopper plugin to design origami products.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/crane.html",
+    "downloadUrl": "https://www.food4rhino.com/app/crane",
+    "tags": [
+      "generation",
+      "origami"
+    ]
+  },
+  {
+    "id": "culebra",
+    "name": "Culebra",
+    "authors": "Luis Quinones",
+    "description": "Culebra is a 2D & 3D Multi Object Behavior library written in C# (Wrapper around Culebra Java library) focused on hybrid system interactions with custom Visualization, Data, and performance features.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/culebra.html",
+    "downloadUrl": "https://www.food4rhino.com/app/culebra",
+    "tags": [
+      "logic",
+      "agent",
+      "simulation"
+    ]
+  },
+  {
+    "id": "dendro",
+    "name": "Dendro",
+    "authors": "ecr labs",
+    "description": "Dendro is a volumetric modeling plug-in for Grasshopper built on top of the OpenVDB library.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/dendro.html",
+    "downloadUrl": "https://www.food4rhino.com/app/dendro",
+    "tags": [
+      "geometry",
+      "exotic"
+    ]
+  },
+  {
+    "id": "design-space-exploration",
+    "name": "Design Space Exploration",
+    "authors": "Digital Structures (MIT)",
+    "description": "Design Space Exploration (DSE) is a suite of open-source Grasshopper tools developed by Digital Structures at MIT.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/design-space-exploration.html",
+    "downloadUrl": "https://www.food4rhino.com/app/design-space-exploration",
+    "tags": [
+      "math",
+      "optimization"
+    ]
+  },
+  {
+    "id": "dhictionary",
+    "name": "Dhictionary",
+    "authors": "Fr\u00e9d\u00e9ric Becquelin",
+    "description": "Adds a Dictionary type in Grasshopper.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/dhictionary.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/dhictionary",
+    "tags": [
+      "logic",
+      "data",
+      "structures"
+    ]
+  },
+  {
+    "id": "diva",
+    "name": "DIVA",
+    "authors": "Solemma",
+    "description": "",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/diva.html",
+    "downloadUrl": "http://www.solemma.net/",
+    "tags": [
+      "architecture",
+      "energy",
+      "simulation"
+    ]
+  },
+  {
+    "id": "dodo",
+    "name": "Dodo",
+    "authors": "Lorenzo Greco",
+    "description": "Dodo is a collection of tools for machine learning, optimization, and geometry manipulation.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/dodo.html",
+    "downloadUrl": "https://www.food4rhino.com/app/dodo?etx=",
+    "tags": [
+      "logic",
+      "machine",
+      "learning"
+    ]
+  },
+  {
+    "id": "doodlebug",
+    "name": "Doodlebug",
+    "authors": "Andrew Heumann",
+    "description": "Doodlebug allows Grasshopper to query and drive Adobe Illustrator.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/doodlebug.html",
+    "downloadUrl": "http://www.grasshopper3d.com/group/doodlebug?xg_source=activity",
+    "tags": [
+      "integration",
+      "adobe",
+      "illustrator"
+    ]
+  },
+  {
+    "id": "dragonfly",
+    "name": "Dragonfly",
+    "authors": "Antonello Di Nunzio & Chris Mackey",
+    "description": "Dragonfly allows users to model large-scale climate phenomena such as urban heat island.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/dragonfly.html",
+    "downloadUrl": "https://github.com/chriswmackey/Dragonfly/wiki",
+    "tags": [
+      "architecture",
+      "climate",
+      "simulation"
+    ]
+  },
+  {
+    "id": "droid",
+    "name": "Droid",
+    "authors": "ytsebastian",
+    "description": "Droid is a 3D printing add-on, with control over model Slicing, Custom paths and Gcode generation.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/droid.html",
+    "downloadUrl": "https://www.food4rhino.com/app/droid-3d-print-slicer-and-path-plotter",
+    "tags": [
+      "electronic",
+      "3d",
+      "printing"
+    ]
+  },
+  {
+    "id": "duck",
+    "name": "Duck",
+    "authors": "Wayne Yeh",
+    "description": "Duck executes the sorting function on various types of geometries (points, curves,breps, meshes...etc).",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/duck.html",
+    "downloadUrl": "https://www.food4rhino.com/app/duck",
+    "tags": [
+      "core",
+      "collections"
+    ]
+  },
+  {
+    "id": "editree",
+    "name": "EdiTree",
+    "authors": "John Ju Hyung Chun",
+    "description": "",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/editree.html",
+    "downloadUrl": "https://www.food4rhino.com/app/editree",
+    "tags": [
+      "logic",
+      "data",
+      "structures"
+    ]
+  },
+  {
+    "id": "elefront",
+    "name": "Elefront",
+    "authors": "Ramon van der Heijden & Alan Tai",
+    "description": "The Elefront plug-in is all about managing model data and interaction with Rhino Objects.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/elefront.html",
+    "downloadUrl": "https://www.food4rhino.com/app/elefront",
+    "tags": [
+      "rhino"
+    ]
+  },
+  {
+    "id": "elk",
+    "name": "Elk",
+    "authors": "Timothy Logan",
+    "description": "Elk is a set of tools to generate map and topographical surfaces using open source data from OpenStreetMap.org and USGS.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/elk.html",
+    "downloadUrl": "https://www.food4rhino.com/app/elk",
+    "tags": [
+      "integration",
+      "maps",
+      "gis"
+    ]
+  },
+  {
+    "id": "emu",
+    "name": "Emu",
+    "authors": "Emil Poulsen",
+    "description": "Emu is an interactive structural analysis and form-finding tool based on a 6DOF (6 degrees of freedom) formulation of the dynamic relaxation method allowing engineers and designers to run bi-axial bending and torsion simulations.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/emu.html",
+    "downloadUrl": "https://www.food4rhino.com/app/emu",
+    "tags": [
+      "architecture",
+      "simulation",
+      "fem"
+    ]
+  },
+  {
+    "id": "fabtools",
+    "name": "FabTools",
+    "authors": "Florian Frank",
+    "description": "FabTools is a set of Clusters, that enhances the ability of Grasshopper.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/fabtools.html",
+    "downloadUrl": "https://www.food4rhino.com/app/fabtools",
+    "tags": [
+      "electronic",
+      "3d",
+      "printing"
+    ]
+  },
+  {
+    "id": "fenix",
+    "name": "Fenix",
+    "authors": "protoGen Software",
+    "description": "Fenix is a full-featured elastic finite element analysis and structural design plug-in for Grasshopper.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/fenix.html",
+    "downloadUrl": "https://www.protogensoftware.com/fenix",
+    "tags": [
+      "architecture",
+      "simulation",
+      "fem"
+    ]
+  },
+  {
+    "id": "fennec",
+    "name": "Fennec",
+    "authors": "Seghier",
+    "description": "This addon have useful tools like different extend tools, convert Grasshopper script to geometry, modified pipe , math tools , text tools and more.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/fennec.html",
+    "downloadUrl": "https://www.food4rhino.com/en/app/fennec",
+    "tags": [
+      "core",
+      "collections"
+    ]
+  },
+  {
+    "id": "firefly",
+    "name": "Firefly",
+    "authors": "Andrew Payne (LIFT architects)",
+    "description": "Firefly is a set of comprehensive software tools dedicated to bridging the gap between Grasshopper (a free plug-in for Rhino), the Arduino micro-controller, the internet and beyond.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/firefly.html",
+    "downloadUrl": "https://www.food4rhino.com/app/firefly",
+    "tags": [
+      "electronic",
+      "robotics",
+      "computer",
+      "vision"
+    ]
+  },
+  {
+    "id": "flatworm",
+    "name": "Flatworm",
+    "authors": "jakobl",
+    "description": "Flatworm is a GHPython implementation of the pure-python module RFQM.py for generating 'rigidly foldable quadrilateral meshes' (RFQM) in Grasshopper, that are flat foldbale!",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/flatworm.html",
+    "downloadUrl": "https://www.food4rhino.com/app/flatworm",
+    "tags": [
+      "generation",
+      "origami"
+    ]
+  },
+  {
+    "id": "grevit",
+    "name": "Grevit",
+    "authors": "Grevit-dev",
+    "description": "Grevit allows you to define BIM Elements in Grasshopper or SketchUp and translate them directly to Autodesk Revit or AutoCad Architecture.",
+    "thumbnailUrl": "https://grasshopperdocs.com/images/search.png",
+    "pluginPageUrl": "https://grasshopperdocs.com/addons/grevit.html",
+    "downloadUrl": "http://grevit-dev.github.io/Grevit/",
+    "tags": [
+      "integration",
+      "autodesk",
+      "revit"
+    ]
+  }
+]
