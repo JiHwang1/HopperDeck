@@ -156,7 +156,7 @@ export default function CategoryPageClient({
 						: "bg-transparent py-6",
 				].join(" ")}
 			>
-					<div className="mx-auto flex w-full max-w-6xl items-center gap-4 px-6">
+					<div className="mx-auto flex w-full max-w-6xl items-center gap-4 px-4 sm:px-6">
 					<Link
 						href="/"
 						className={[
@@ -166,15 +166,13 @@ export default function CategoryPageClient({
 					>
 						HopperDeck
 					</Link>
-					<div
-						className="flex-1"
-					>
+					<div className="flex-1 min-w-0">
 						<input
 							type="search"
 							placeholder={`Search in ${category}...`}
 							value={searchQuery}
 							onChange={(event) => setSearchQuery(event.target.value)}
-							className="w-full rounded-2xl border border-slate-200/80 bg-white/90 px-4 py-2.5 text-sm shadow-[0_12px_32px_-26px_rgba(15,23,42,0.6)] outline-none transition placeholder:text-slate-400 focus:border-emerald-400 focus:ring-4 focus:ring-emerald-100"
+							className="min-w-0 w-full rounded-2xl border border-slate-200/80 bg-white/90 px-4 py-2.5 text-sm shadow-[0_12px_32px_-26px_rgba(15,23,42,0.6)] outline-none transition placeholder:text-slate-400 focus:border-emerald-400 focus:ring-4 focus:ring-emerald-100"
 						/>
 					</div>
 					<Link
@@ -189,7 +187,7 @@ export default function CategoryPageClient({
 				</div>
 			</nav>
 
-			<section className="mx-auto w-full max-w-6xl px-6 pb-24 pt-28 sm:pt-32">
+			<section className="mx-auto w-full max-w-6xl px-4 pb-24 pt-28 sm:px-6 sm:pt-32">
 				<div className="mb-8 flex flex-col gap-2 border-b border-slate-200 pb-5">
 					<p className="text-sm text-slate-500">
 						<Link href="/" className="hover:text-emerald-700">
@@ -264,9 +262,9 @@ export default function CategoryPageClient({
 							className="group flex cursor-pointer flex-col rounded-2xl border border-slate-200 bg-white p-5 shadow-[0_20px_45px_-38px_rgba(15,23,42,0.95)] outline-none transition duration-300 hover:-translate-y-1 hover:border-emerald-300 hover:shadow-[0_25px_50px_-35px_rgba(16,185,129,0.6)] focus-visible:ring-4 focus-visible:ring-emerald-100"
 						>
 							<div className="mb-5 flex items-start justify-between gap-3">
-								<div>
-									<h3 className="text-base font-semibold text-slate-900 group-hover:text-emerald-800">
-										<span className="inline-flex items-center gap-2">
+								<div className="min-w-0">
+									<h3 className="break-words text-base font-semibold text-slate-900 group-hover:text-emerald-800">
+										<span className="inline-flex flex-wrap items-center gap-2">
 											{item.verified ? (
 												<span className="inline-flex h-5 w-5 items-center justify-center rounded-full bg-emerald-600 text-white">
 													<svg
@@ -294,7 +292,7 @@ export default function CategoryPageClient({
 								{(() => {
 									const parsed = parseGrasshopperDocsCategory(item.category ?? "");
 									return parsed.sub ? (
-										<span className="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-700">
+										<span className="max-w-[45%] truncate rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-700">
 											{parsed.sub}
 										</span>
 									) : null;

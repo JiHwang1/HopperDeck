@@ -42,7 +42,7 @@ export default function HomeCategoriesClient({
 						: "bg-transparent py-6",
 				].join(" ")}
 			>
-				<div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-6">
+				<div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
 					<span
 						className={[
 							"font-paperlogy text-lg tracking-tight text-emerald-500 transition-all duration-300",
@@ -63,7 +63,7 @@ export default function HomeCategoriesClient({
 				</div>
 			</nav>
 
-			<section className="relative flex min-h-[80vh] items-center justify-center overflow-hidden bg-slate-50 px-6 pb-16 pt-28 text-center sm:pt-32">
+			<section className="relative flex min-h-[80vh] items-center justify-center overflow-hidden bg-slate-50 px-4 pb-16 pt-28 text-center sm:px-6 sm:pt-32">
 				<div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(16,185,129,0.18),transparent_40%),radial-gradient(circle_at_80%_10%,rgba(14,165,233,0.16),transparent_45%),radial-gradient(circle_at_50%_80%,rgba(249,115,22,0.14),transparent_45%)]" />
 				<div className="animate-float-soft pointer-events-none absolute left-1/2 top-1/2 h-[58vw] w-[58vw] -translate-x-1/2 -translate-y-1/2 rounded-full bg-emerald-300/25 blur-[120px]" />
 				<div className="pointer-events-none absolute bottom-0 left-0 right-0 h-44 bg-gradient-to-t from-slate-50 via-slate-50/80 to-transparent" />
@@ -104,7 +104,7 @@ export default function HomeCategoriesClient({
 				</div>
 			</section>
 
-			<section id="categories" className="mx-auto w-full max-w-6xl bg-slate-50 px-6 pb-24 pt-8">
+			<section id="categories" className="mx-auto w-full max-w-6xl bg-slate-50 px-4 pb-24 pt-8 sm:px-6">
 				<div className="mb-8 flex items-end justify-between border-b border-slate-200 pb-5">
 					<h2 className="text-2xl font-semibold tracking-tight text-slate-900">Categories</h2>
 					<p className="text-xs text-slate-500">{categories.reduce((sum, c) => sum + c.count, 0)} plugins</p>
@@ -144,7 +144,7 @@ export default function HomeCategoriesClient({
 					))}
 				</div>
 
-				<section aria-labelledby="about" className="mt-14 rounded-3xl border border-slate-200 bg-white p-8">
+				<section aria-labelledby="about" className="mt-14 rounded-3xl border border-slate-200 bg-white p-6 sm:p-8">
 					<h2 id="about" className="text-xl font-semibold tracking-tight text-slate-900">
 						About
 					</h2>

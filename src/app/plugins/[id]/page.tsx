@@ -32,7 +32,7 @@ export default async function PluginDetailPage({ params }: PluginDetailPageProps
 	}
 
 	return (
-		<div className="min-h-screen bg-slate-50 px-6 pb-20 pt-14 text-slate-900">
+		<div className="min-h-screen bg-slate-50 px-4 pb-20 pt-14 text-slate-900 sm:px-6">
 			<main className="mx-auto w-full max-w-4xl">
 				<nav className="mb-6 text-sm text-slate-500">
 					<Link href="/" className="hover:text-emerald-700">
@@ -51,11 +51,11 @@ export default async function PluginDetailPage({ params }: PluginDetailPageProps
 					</Link>
 				</div>
 
-				<header className="rounded-3xl border border-slate-200 bg-white p-8 shadow-[0_28px_70px_-46px_rgba(15,23,42,0.7)]">
+				<header className="rounded-3xl border border-slate-200 bg-white p-6 shadow-[0_28px_70px_-46px_rgba(15,23,42,0.7)] sm:p-8">
 					<div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
 						<div>
-							<h1 className="mb-3 text-3xl font-bold tracking-tight text-emerald-800 sm:text-4xl">
-								<span className="inline-flex items-center gap-3">
+							<h1 className="mb-3 break-words text-3xl font-bold tracking-tight text-emerald-800 sm:text-4xl">
+								<span className="inline-flex flex-wrap items-center gap-3">
 									{item.verified ? (
 										<span className="inline-flex h-7 w-7 items-center justify-center rounded-full bg-emerald-600 text-white">
 											<svg
